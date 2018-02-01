@@ -22,7 +22,7 @@ h1 {
 
 #container{
 	width:800px;
-	margin:50px auto;
+	margin:40px auto;
 	padding: 20px;
 	height: 200px;
 	font-size: 30px;
@@ -81,7 +81,7 @@ img {
   }
 
   #quoteButton, #quoteGenius, #quoteContainer {
-	  text-align: center;
+	  text-align: left;
 	    
   }
 
