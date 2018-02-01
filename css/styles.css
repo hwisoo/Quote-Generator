@@ -82,6 +82,7 @@ img {
 
   #quoteButton, #quoteGenius, #quoteContainer {
 	  text-align: left;
+	  text-overflow: inherit;
 	    
   }
 
