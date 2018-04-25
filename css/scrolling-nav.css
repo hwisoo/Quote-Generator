@@ -1,0 +1,120 @@
+/*!
+ * Start Bootstrap - Scrolling Nav (https://startbootstrap.com/template-overviews/scrolling-nav)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-scrolling-nav/blob/master/LICENSE)
+ */
+ body {
+	text-align: center;
+	font-family: 'Crimson Text', sans-serif;
+	font-weight: bold;
+	
+}
+
+header {
+  padding: 154px 0 100px;
+}
+
+@media (min-width: 992px) {
+  header {
+    padding: 156px 0 100px;
+  }
+}
+
+
+section {
+  padding: 150px 0;
+  margin-top: 100px;
+}
+
+footer{
+  color: lightgray;
+  background-color: rgb(74, 151, 202);
+  text-shadow: 2px 2px 4px #154360;
+}
+
+#mainNav {
+  color: lightgray;
+	height:170px;
+	background-color: rgb(74, 151, 202);
+	font-size: 60px;
+	margin:auto;
+	padding-top:40px;
+	font-family: 'Rock Salt', cursive;
+	text-shadow: 2px 2px 4px #154360;
+}
+
+
+#quoteGenius{
+	font-style: italic;
+	font-weight: 1200;
+	margin-bottom: 50px;
+}
+
+#quoteContainer {
+  font-size: 25px;
+  margin:auto;
+  min-height: 300px;
+}
+
+#buttonContainer{
+  
+	margin-bottom: 250px;
+}
+
+#quoteButton{
+	width:400px;
+	border-radius:10px;
+	border:2px solid #5DADE2;
+	color:#045;
+	font-weight:bold;
+	font-size: 30px;
+	padding:20px 35px 20px 35px;
+	text-decoration:none;
+}
+
+#quoteButton:hover{
+	padding:25px 40px 25px 40px;
+	cursor:pointer;
+	background:#09c;
+	color: #fff;	
+	border-color:#154360;
+}
+#quoteButton:active{
+	cursor: pointer;
+}
+
+
+@media screen and (min-width: 0px) and (max-width: 840px){
+  #mainNav {
+    font-size: 40px;
+    height: 200px;
+  }
+
+  #quoteButton, #quoteGenius, #quoteContainer {
+	  text-align: center;
+	    
+  }
+
+  #quoteContainer {
+	  font-size: 20px;
+	  margin:auto;
+  }
+}
+
+@media screen and (min-height:0px) and (max-height: 680px){
+  footer {
+    display: none;
+  }
+
+  #mainNav {
+    font-size: 20px;
+    max-height: 50px;
+  }
+
+  #buttonContainer {
+    position: relative;
+    bottom: 30px;
+    font-size: 10px;
+    height: 30px;
+  }
+}
