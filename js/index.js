@@ -1,8 +1,22 @@
 $(document).ready(function(){
     var quoteSource=[
     {
-        quote: "Start by doing what's necessary; then do what's possible; and suddenly you are doing the impossible.",
-        name:"Francis of Assisi"
+        quote:"Knowing yourself is the beginning of all wisdom.",
+        name:"Aristotle"
+    },
+    {
+        quote:"It is during our darkest moments that we must focus to see the light.",
+        name:"Aristotle"
+    },
+    {
+        quote: "The world is full of magical things patiently waiting for our wits to grow sharper.",
+        name:"Bertrand Russell"
+    },
+    {   quote: "The time for action is now. It's never too late to do something.",
+        name: "Antoine de Saint-Exupery"
+    },
+    {   quote: "Each man must look to himself to teach him the meaning of life. It is not something discovered: it is something molded.",
+        name: "Antoine de Saint-Exupery"
     },
     {
         quote:"Believe you can and you're halfway there.",
@@ -24,10 +38,7 @@ $(document).ready(function(){
         quote:"Don't watch the clock; do what it does. Keep going.",
         name:"Sam Levenson"
     },
-    {
-        quote:"Knowing yourself is the beginning of all wisdom.",
-        name:"Aristotle"
-    },
+   
     {
         quote:"A creative man is motivated by the desire to achieve, not by the desire to beat others.",
         name:"Ayn Rand"
@@ -61,16 +72,20 @@ $(document).ready(function(){
         name:"Henry David Thoreau"
     },
     {
+        quote:"Try to be a rainbow in someone's cloud.",
+        name:"Maya Angelou"
+    },
+    {
+        quote:"I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel.",
+        name:"Maya Angelou"
+    },
+    {
         quote:"I learned that courage was not the absence of fear, but the triumph over it. The brave man is not he who does not feel afraid, but he who conquers that fear.",
         name:"Nelson Mandela"
     },
     {
         quote:"To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
         name:"Ralph Waldo Emerson"
-    },
-    {
-        quote:"I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel.",
-        name:"Maya Angelou"
     },
     {
         quote:"The only person you are destined to become is the person you decide to be.",
@@ -85,10 +100,6 @@ $(document).ready(function(){
         name:"Vincent van Gogh"
     },
     {
-        quote:"One must still have chaos in oneself to be able to give birth to a dancing star.",
-        name:"Friedrich Nietzsche"
-    },
-    {
         quote:"Keep your face always toward the sunshine - and shadows will fall behind you.",
         name:"Walt Whitman"
     },
@@ -97,16 +108,8 @@ $(document).ready(function(){
         name:"Dalai Lama"
     },
     {
-        quote:"Try to be a rainbow in someone's cloud.",
-        name:"Maya Angelou"
-    },
-    {
         quote:"Wise men speak because they have something to say; Fools because they have to say something.",
         name:"Plato"
-    },
-    {
-        quote:"It is during our darkest moments that we must focus to see the light.",
-        name:"Aristotle"
     },
     {
         quote:"The most important thing in life is to learn how to give out love, and to let it come in.",
@@ -114,8 +117,7 @@ $(document).ready(function(){
     },
     {
         quote: "Nothing else in the world... not all the armies... is so powerful as an idea whose time has come.",
-        name: "Victor Hugo"
-        
+        name: "Victor Hugo"   
     },
     {
         quote: "Perseverance, secret of all triumphs.",
