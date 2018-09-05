@@ -19,6 +19,14 @@ $(document).ready(function(){
         name: "Antoine de Saint-Exupery"
     },
     {
+        quote:"Do not spoil what you have by desiring what you have not; remember that what you now have was once among the things you only hoped for.",
+        name:"Epicurus"
+    },
+    {
+        quote:"Now what we have but what we enjoy, constitutes our abundance.",
+        name:"Epicurus"
+    },
+    {
         quote:"Believe you can and you're halfway there.",
         name:"Theodore Roosevelt"
     },
