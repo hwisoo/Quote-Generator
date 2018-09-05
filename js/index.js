@@ -56,8 +56,12 @@ $(document).ready(function(){
         name:"James Dean"
     },
     {
-        quote:"Start where you are. Use what you have. Do what you can.",
-        name:"Arthur Ashe"
+        quote:"The highest activity a human being can attain is learning for understanding, because to understand is to be free.",
+        name:"B. Spinoza"
+    },
+    {
+        quote:"If you want the present to be different from the past, study the past.",
+        name:"B. Spinoza"
     },
     {
         quote:"Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better.",
