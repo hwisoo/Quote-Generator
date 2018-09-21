@@ -27,14 +27,6 @@ $(document).ready(function(){
         name:"Epicurus"
     },
     {
-        quote:"Believe you can and you're halfway there.",
-        name:"Theodore Roosevelt"
-    },
-    {
-        quote:"It always seems impossible until it's done.",
-        name:"Nelson Mandela"
-    },
-    {
         quote:"Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.",
         name:"Thomas A. Edison"
     },
@@ -46,7 +38,14 @@ $(document).ready(function(){
         quote:"Don't watch the clock; do what it does. Keep going.",
         name:"Sam Levenson"
     },
-   
+    {
+        quote:"It always seems impossible until it's done.",
+        name:"Nelson Mandela"
+    },
+    {
+        quote:"I learned that courage was not the absence of fear, but the triumph over it. The brave man is not he who does not feel afraid, but he who conquers that fear.",
+        name:"Nelson Mandela"
+    },
     {
         quote:"A creative man is motivated by the desire to achieve, not by the desire to beat others.",
         name:"Ayn Rand"
@@ -92,10 +91,6 @@ $(document).ready(function(){
         name:"Maya Angelou"
     },
     {
-        quote:"I learned that courage was not the absence of fear, but the triumph over it. The brave man is not he who does not feel afraid, but he who conquers that fear.",
-        name:"Nelson Mandela"
-    },
-    {
         quote:"To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
         name:"Ralph Waldo Emerson"
     },
@@ -110,6 +105,18 @@ $(document).ready(function(){
     {
         quote:"Great things are done by a series of small things brought together.",
         name:"Vincent van Gogh"
+    },
+    {
+        quote: "By seeking and blundering we learn.",
+        name: "Johann Wolfgang von Goethe"
+    },
+    {
+        quote: "Knowing is not enough; we must apply. Willing is not enough; we must do.",
+        name: "Johann Wolfgang von Goethe"
+    },
+    {
+        quote: "Whatever you can do or dream you can, begin it. Boldness has genius, power, and magic in it.",
+        name: "Johann Wolfgang von Goethe"
     },
     {
         quote:"Keep your face always toward the sunshine - and shadows will fall behind you.",
